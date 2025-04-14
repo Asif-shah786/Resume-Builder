@@ -1,0 +1,4 @@
+weasyprint==52.5
+cairocffi==1.6.1
+cffi==1.16.0
+Pillow==10.2.0 
